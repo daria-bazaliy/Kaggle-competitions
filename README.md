@@ -12,7 +12,7 @@ team-based competition on an imbalanced dataset.
 | Competition | Task | Metric | Result |
 |---|---|---|---|
 | [Restaurant Closure Prediction](/restaurant_closure.ipynb) | Binary classification | ROC-AUC | 25th of 128 |
-| [Rent Price Prediction](/safe_driver_risk_prediction_ipynb".ipynb) | Regression | MAE | 18th of 129 |
+| [Rent Price Prediction](/safe_driver_risk_prediction.ipynb) | Regression | MAE | 18th of 129 |
 | [Safe Driver Risk Prediction](/safe_driver_risk_prediction_ipynb".ipynb) | Binary classification (team) | F1 | Near bottom of leaderboard |
 
 All competitions were private, run within the course — not public Kaggle 
