@@ -11,7 +11,7 @@ team-based competition on an imbalanced dataset.
 
 | Competition | Task | Metric | Result |
 |---|---|---|---|
-| [Restaurant Closure Prediction](./restaurant-survival) | Binary classification | ROC-AUC | 25th of 128 |
+| [Restaurant Closure Prediction](/restaurant_closure.ipynb) | Binary classification | ROC-AUC | 25th of 128 |
 | [Rent Price Prediction](./rental-price) | Regression | MAE | 18th of 129 |
 | [Safe Driver Risk Prediction](./safe-driver-risk) | Binary classification (team) | F1 | Near bottom of leaderboard |
 
